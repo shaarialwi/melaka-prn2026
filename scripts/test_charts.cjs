@@ -1,0 +1,6 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const els=new Map();const element=s=>{if(!els.has(s))els.set(s,{innerHTML:'',textContent:'',value:''});return els.get(s)};
+const context={document:{querySelector:element,addEventListener(){}},fetch:()=>new Promise(()=>{}),setInterval(){},console,Date};vm.createContext(context);
+vm.runInContext(fs.readFileSync(require('node:path').join(__dirname,'../app.js'),'utf8')+`\n data={modes:{unofficial:[{code:'N.01',name:'TEST ONLY',registered:1000,candidates:[{name:'A',party:'PH',votes:100},{name:'B',party:'BN',votes:200}]}]}}; detail(); if(total(seats()[0])!==300||leader(seats()[0]).party!=='BN')throw Error('count'); seats()[0].candidates[0].votes=200; if(leader(seats()[0])!==null)throw Error('tie');`,context);
+assert.equal(element('#total').textContent,'300');assert.match(element('#candidateCards').innerHTML,/66\.7%/);assert.match(element('#pie').innerHTML,/stroke-dasharray="33\.333/);
+vm.runInContext(`seats()[0].candidates.forEach(c=>c.votes=null); detail();`,context);assert.equal(element('#total').textContent,'—');assert.match(element('#pie').innerHTML,/NO DATA/);console.log('Chart totals, shares, ties and missing counts passed.');
