@@ -1,0 +1,56 @@
+name: Refresh results and deploy
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '2-57/5 * * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: melaka-results
+  cancel-in-progress: false
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh source (keep last valid snapshot on failure)
+        id: refresh
+        continue-on-error: true
+        run: python scripts/update_results.py
+      - name: Save checked snapshot and source health
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/results.json data/status.json data/candidates.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh Melaka election snapshot"
+            git push
+          fi
+      - name: Assemble public website
+        run: |
+          mkdir -p _site
+          cp index.html style.css app.js _site/
+          cp -R data _site/
+          touch _site/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Publish GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Flag refresh failure after publishing retained data
+        if: steps.refresh.outcome == 'failure'
+        run: |
+          echo 'Source refresh failed. The site retained its last good data and displays a warning.'
+          exit 1
