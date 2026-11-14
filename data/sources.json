@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-11-14T10:20:44.151288+00:00",
+  "checkedAt": "2026-11-14T10:35:25.658546+00:00",
   "sources": {
     "awani": {
       "url": "https://pru.astroawani.com/prn-melaka-2026/kawasan",
-      "attemptedAt": "2026-11-14T10:20:44.151288+00:00",
+      "attemptedAt": "2026-11-14T10:35:25.658546+00:00",
       "ok": true,
-      "checkedAt": "2026-11-14T10:20:44.151288+00:00",
+      "checkedAt": "2026-11-14T10:35:25.658546+00:00",
       "seats": [
         {
           "code": "N.01",
@@ -256,23 +256,23 @@
               "id": "8541",
               "name": "RAIS YASIN",
               "party": "BN",
-              "votes": 1282
-            },
-            {
-              "id": "8707",
-              "name": "MOHD RIDZUAN ABDUL RAHMAN",
-              "party": "BERSAMA",
-              "votes": 71
+              "votes": 2831
             },
             {
               "id": "8479",
               "name": "ABDULLAH MAHADI",
               "party": "BERSATU",
-              "votes": 24
+              "votes": 144
+            },
+            {
+              "id": "8707",
+              "name": "MOHD RIDZUAN ABDUL RAHMAN",
+              "party": "BERSAMA",
+              "votes": 43
             }
           ],
           "official": false,
-          "sourceUpdatedAt": "2026-11-14T10:16:19.000000Z"
+          "sourceUpdatedAt": "2026-11-14T10:26:34.000000Z"
         },
         {
           "code": "N.12",
@@ -397,29 +397,29 @@
               "id": "1272",
               "name": "KERK CHEE YEE",
               "party": "PH",
-              "votes": 413
+              "votes": 750
             },
             {
               "id": "8557",
               "name": "MICHAEL GAN PENG LAM",
               "party": "PN",
-              "votes": 174
+              "votes": 218
             },
             {
               "id": "8663",
               "name": "MOHD HAMNAIM MOHAMAD",
               "party": "BERSATU",
-              "votes": 21
+              "votes": 23
             },
             {
               "id": "8655",
               "name": "MUHAMMAD MUHAIMIN LAU ABDULLAH",
               "party": "BERSAMA",
-              "votes": 16
+              "votes": 17
             }
           ],
           "official": false,
-          "sourceUpdatedAt": "2026-11-14T10:10:12.000000Z"
+          "sourceUpdatedAt": "2026-11-14T10:27:08.000000Z"
         },
         {
           "code": "N.17",
@@ -738,9 +738,9 @@
     },
     "spr": {
       "url": "https://dashboard.spr.gov.my/",
-      "attemptedAt": "2026-11-14T10:20:44.151288+00:00",
+      "attemptedAt": "2026-11-14T10:35:25.658546+00:00",
       "ok": true,
-      "checkedAt": "2026-11-14T10:20:44.151288+00:00",
+      "checkedAt": "2026-11-14T10:35:25.658546+00:00",
       "seats": [
         {
           "code": "N.01",
