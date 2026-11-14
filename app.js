@@ -1,6 +1,6 @@
 'use strict';
 const $=s=>document.querySelector(s), colours={PH:'#d43b4c',BN:'#2453a0',PN:'#2988ac',BERSATU:'#a43b32',BERSAMA:'#c59c22',BEBAS:'#737d89',PUTRA:'#875a9d'},grey='#ccd6e0';
-let data,geometry,selected='N.01',mode='unofficial',loading=false,health,extra,source="bernama";
+let data,geometry,selected='N.01',mode='unofficial',loading=false,health,extra,source="awani";
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const fmt=n=>n===null||n===undefined?'—':n.toLocaleString('en-MY');
 const when=s=>new Date(s).toLocaleString('en-MY',{timeZone:'Asia/Kuala_Lumpur',day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit',hour12:false})+' MYT';
@@ -15,7 +15,7 @@ function sourceCards(){
 }
 
 function render(){
- sourceCards();$('#mode').disabled=source!=='bernama';
+ sourceCards();if(source!=='bernama'&&!extra?.sources?.[source]?.seats)source='bernama';$('#source').value=source;$('#mode').disabled=source!=='bernama';
  const all=seats(),reported=all.filter(s=>s.candidates.some(c=>c.votes!==null)).length;
  $('#phase').textContent=reported?`${reported} / 28 seats reporting`:'AWAITING RESULTS';
  $('#updated').textContent='Source checked '+when(activeFeed().checkedAt);
