@@ -27,11 +27,13 @@ jobs:
         id: refresh
         continue-on-error: true
         run: python scripts/update_results.py
+      - name: Refresh Astro AWANI and SPR independently
+        run: python scripts/update_sources.py
       - name: Save checked snapshot and source health
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/results.json data/status.json data/candidates.csv
+          git add data/results.json data/status.json data/candidates.csv data/sources.json data/source-candidates.csv
           if ! git diff --cached --quiet; then
             git commit -m "Refresh Melaka election snapshot"
             git push

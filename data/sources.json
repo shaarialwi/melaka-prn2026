@@ -1,0 +1,1452 @@
+{
+  "checkedAt": "2026-11-14T10:18:51.876859+00:00",
+  "sources": {
+    "awani": {
+      "url": "https://pru.astroawani.com/prn-melaka-2026/kawasan",
+      "attemptedAt": "2026-11-14T10:18:51.876859+00:00",
+      "ok": true,
+      "checkedAt": "2026-11-14T10:18:51.876859+00:00",
+      "seats": [
+        {
+          "code": "N.01",
+          "name": "Kuala Linggi",
+          "registered": 15483,
+          "candidates": [
+            {
+              "id": "8653",
+              "name": "NUR FARHANA HAMZAH",
+              "party": "BERSAMA",
+              "votes": null
+            },
+            {
+              "id": "8461",
+              "name": "ROSLI ABDULLAH",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "8623",
+              "name": "MUHAMMAD MUKHLISUL MUBIN JULASAPIYAH",
+              "party": "PH",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-27T11:06:08.000000Z"
+        },
+        {
+          "code": "N.02",
+          "name": "Tanjung Bidara",
+          "registered": 15003,
+          "candidates": [
+            {
+              "id": "8469",
+              "name": "AB RAUF YUSOH",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "8625",
+              "name": "MOHD YUNAZRI MUSTAMIRI",
+              "party": "PH",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-27T11:06:41.000000Z"
+        },
+        {
+          "code": "N.03",
+          "name": "Ayer Limau",
+          "registered": 15379,
+          "candidates": [
+            {
+              "id": "8547",
+              "name": "MOHD JAINI DIMON",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "8473",
+              "name": "HAMEED MYTHEEN KUNJU BASHEER",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-27T11:06:54.000000Z"
+        },
+        {
+          "code": "N.04",
+          "name": "Lendu",
+          "registered": 15043,
+          "candidates": [
+            {
+              "id": "3823",
+              "name": "ABDUL HAKIM ABDUL WAHID",
+              "party": "BN",
+              "votes": 162
+            },
+            {
+              "id": "8679",
+              "name": "NAZRI RAMLI",
+              "party": "BERSATU",
+              "votes": 8
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-11-14T10:09:27.000000Z"
+        },
+        {
+          "code": "N.05",
+          "name": "Taboh Naning",
+          "registered": 11299,
+          "candidates": [
+            {
+              "id": "8689",
+              "name": "JUNAINAH SAHAT",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "8485",
+              "name": "ZULKIFLEE MOHD ZIN",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-27T11:07:17.000000Z"
+        },
+        {
+          "code": "N.06",
+          "name": "Rembia",
+          "registered": 23291,
+          "candidates": [
+            {
+              "id": "8627",
+              "name": "MOHD KHUZAIRIE MOHD KAMAL KANNAN",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "8701",
+              "name": "AHMAD NORAZRIL ABDUL AZIZ",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "8697",
+              "name": "MUHAMED AMAN AKIL ABDUL TALIB",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-27T11:07:35.000000Z"
+        },
+        {
+          "code": "N.07",
+          "name": "Gadek",
+          "registered": 16617,
+          "candidates": [
+            {
+              "id": "8643",
+              "name": "NADARAJAH SELLAPPA",
+              "party": "BN",
+              "votes": 50
+            },
+            {
+              "id": "8497",
+              "name": "LAILA NORINDA MAON",
+              "party": "PUTRA",
+              "votes": 10
+            },
+            {
+              "id": "8633",
+              "name": "JEGASILAN KUNGAMBOO",
+              "party": "PH",
+              "votes": 7
+            },
+            {
+              "id": "8705",
+              "name": "LAVEEN  BALAPRABHAKARAN",
+              "party": "BERSAMA",
+              "votes": 1
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-11-14T10:00:04.000000Z"
+        },
+        {
+          "code": "N.08",
+          "name": "Machap Jaya",
+          "registered": 16030,
+          "candidates": [
+            {
+              "id": "8505",
+              "name": "NGWE HEE SEM",
+              "party": "BN",
+              "votes": 57
+            },
+            {
+              "id": "1305",
+              "name": "GINIE LIM SIEW LIN",
+              "party": "PH",
+              "votes": 12
+            },
+            {
+              "id": "8607",
+              "name": "PRASANTH KUMAR BRAKASAM",
+              "party": "BERSAMA",
+              "votes": 1
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-11-14T09:46:27.000000Z"
+        },
+        {
+          "code": "N.09",
+          "name": "Durian Tunggal",
+          "registered": 21181,
+          "candidates": [
+            {
+              "id": "8597",
+              "name": "ASHRAF MUKHLIS MINGHAT",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "8659",
+              "name": "MUSTAFA MUSA",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:11:40.000000Z"
+        },
+        {
+          "code": "N.10",
+          "name": "Asahan",
+          "registered": 20217,
+          "candidates": [
+            {
+              "id": "8521",
+              "name": "FAIRUL NIZAM ROSLAN",
+              "party": "BN",
+              "votes": 156
+            },
+            {
+              "id": "8691",
+              "name": "DENESH PALASUBRAMANIAM",
+              "party": "PH",
+              "votes": 22
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-11-14T10:16:28.000000Z"
+        },
+        {
+          "code": "N.11",
+          "name": "Sungai Udang",
+          "registered": 29692,
+          "candidates": [
+            {
+              "id": "8541",
+              "name": "RAIS YASIN",
+              "party": "BN",
+              "votes": 1282
+            },
+            {
+              "id": "8707",
+              "name": "MOHD RIDZUAN ABDUL RAHMAN",
+              "party": "BERSAMA",
+              "votes": 71
+            },
+            {
+              "id": "8479",
+              "name": "ABDULLAH MAHADI",
+              "party": "BERSATU",
+              "votes": 24
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-11-14T10:16:19.000000Z"
+        },
+        {
+          "code": "N.12",
+          "name": "Pantai Kundor",
+          "registered": 20855,
+          "candidates": [
+            {
+              "id": "8537",
+              "name": "TUMINAH KADI @ MOHD HASHIM",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "8709",
+              "name": "ASMAH SAMAT",
+              "party": "BERSATU",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:13:16.000000Z"
+        },
+        {
+          "code": "N.13",
+          "name": "Paya Rumput",
+          "registered": 46521,
+          "candidates": [
+            {
+              "id": "1679",
+              "name": "RAFIE AHMAD",
+              "party": "PN",
+              "votes": null
+            },
+            {
+              "id": "8717",
+              "name": "ABDUL RASHID ABU BAKAR",
+              "party": "BERSAMA",
+              "votes": null
+            },
+            {
+              "id": "8721",
+              "name": "AZMAN ABIDIN",
+              "party": "PH",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:13:45.000000Z"
+        },
+        {
+          "code": "N.14",
+          "name": "Kelebang",
+          "registered": 27339,
+          "candidates": [
+            {
+              "id": "1385",
+              "name": "LIM BAN HONG",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "8723",
+              "name": "YOUNG JIE YU",
+              "party": "BERSAMA",
+              "votes": null
+            },
+            {
+              "id": "8531",
+              "name": "MOHAMAD ALI MOHAMAD",
+              "party": "BERSATU",
+              "votes": null
+            },
+            {
+              "id": "8619",
+              "name": "FARZANA HAYANI MOHD NASIR",
+              "party": "PH",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:14:04.000000Z"
+        },
+        {
+          "code": "N.15",
+          "name": "Pengkalan Batu",
+          "registered": 25948,
+          "candidates": [
+            {
+              "id": "8667",
+              "name": "SITI AISYAH MAHMOOD",
+              "party": "BN",
+              "votes": 163
+            },
+            {
+              "id": "8671",
+              "name": "JASON TZE-XI NATHAN",
+              "party": "PH",
+              "votes": 33
+            },
+            {
+              "id": "1681",
+              "name": "NORHIZAM HASSAN BAKTEE",
+              "party": "BERSATU",
+              "votes": 13
+            },
+            {
+              "id": "8669",
+              "name": "GOH HAN KOON",
+              "party": "BERSAMA",
+              "votes": 1
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-11-14T10:16:12.000000Z"
+        },
+        {
+          "code": "N.16",
+          "name": "Ayer Keroh",
+          "registered": 38252,
+          "candidates": [
+            {
+              "id": "1272",
+              "name": "KERK CHEE YEE",
+              "party": "PH",
+              "votes": 413
+            },
+            {
+              "id": "8557",
+              "name": "MICHAEL GAN PENG LAM",
+              "party": "PN",
+              "votes": 174
+            },
+            {
+              "id": "8663",
+              "name": "MOHD HAMNAIM MOHAMAD",
+              "party": "BERSATU",
+              "votes": 21
+            },
+            {
+              "id": "8655",
+              "name": "MUHAMMAD MUHAIMIN LAU ABDULLAH",
+              "party": "BERSAMA",
+              "votes": 16
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-11-14T10:10:12.000000Z"
+        },
+        {
+          "code": "N.17",
+          "name": "Bukit Katil",
+          "registered": 35359,
+          "candidates": [
+            {
+              "id": "1711",
+              "name": "ADLY ZAHARI",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "8651",
+              "name": "ALIZA CHE AMRAN",
+              "party": "BERSAMA",
+              "votes": null
+            },
+            {
+              "id": "8647",
+              "name": "ABU BAKAR SABUDIN",
+              "party": "BEBAS",
+              "votes": null
+            },
+            {
+              "id": "8645",
+              "name": "MUHAMMAD RIDZUAN MOHD SARIF",
+              "party": "PN",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:29:55.000000Z"
+        },
+        {
+          "code": "N.18",
+          "name": "Ayer Molek",
+          "registered": 24614,
+          "candidates": [
+            {
+              "id": "3835",
+              "name": "MOHD RIDHWAN MOHD ALI",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "8641",
+              "name": "MUHAMMAD HAKIMIN MOKHTAR",
+              "party": "PH",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:30:19.000000Z"
+        },
+        {
+          "code": "N.19",
+          "name": "Kesidang",
+          "registered": 54910,
+          "candidates": [
+            {
+              "id": "943",
+              "name": "ALLEX SEAH SHOO CHIN",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "8683",
+              "name": "ALBERT KOK BOON CHANG",
+              "party": "PN",
+              "votes": null
+            },
+            {
+              "id": "8681",
+              "name": "BRYAN KEK KIT HUN",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:33:31.000000Z"
+        },
+        {
+          "code": "N.20",
+          "name": "Kota Laksamana",
+          "registered": 34066,
+          "candidates": [
+            {
+              "id": "2064",
+              "name": "LOW CHEE LEONG",
+              "party": "PH",
+              "votes": 24
+            },
+            {
+              "id": "1867",
+              "name": "MELVIN CHUA KEW WEI",
+              "party": "BN",
+              "votes": 1
+            },
+            {
+              "id": "8695",
+              "name": "ETHAN LIM ZHI HAO",
+              "party": "BERSAMA",
+              "votes": 0
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-11-14T09:37:21.000000Z"
+        },
+        {
+          "code": "N.21",
+          "name": "Duyong",
+          "registered": 26528,
+          "candidates": [
+            {
+              "id": "8629",
+              "name": "POO LONG SUAN",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "8579",
+              "name": "MOHD NOOR HELMY ABDUL HALEM",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:34:15.000000Z"
+        },
+        {
+          "code": "N.22",
+          "name": "Bandar Hilir",
+          "registered": 23042,
+          "candidates": [
+            {
+              "id": "8589",
+              "name": "LENG CHAU YEN",
+              "party": "PH",
+              "votes": 138
+            },
+            {
+              "id": "8685",
+              "name": "JASMINE LOK HUEY YEE",
+              "party": "BN",
+              "votes": 52
+            },
+            {
+              "id": "8687",
+              "name": "MOHD NOR RASHIDI AB. JALIL",
+              "party": "BERSAMA",
+              "votes": 11
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-11-14T09:46:07.000000Z"
+        },
+        {
+          "code": "N.23",
+          "name": "Telok Mas",
+          "registered": 29751,
+          "candidates": [
+            {
+              "id": "8699",
+              "name": "MUHAMMAD HAZWAN MUSTAFA",
+              "party": "BERSAMA",
+              "votes": null
+            },
+            {
+              "id": "2059",
+              "name": "ABDUL RAZAK ABDUL RAHMAN",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "8693",
+              "name": "MOHAMAD JAAFAR",
+              "party": "PH",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:19:00.000000Z"
+        },
+        {
+          "code": "N.24",
+          "name": "Bemban",
+          "registered": 26381,
+          "candidates": [
+            {
+              "id": "8715",
+              "name": "ABD HALIM SAID",
+              "party": "BEBAS",
+              "votes": null
+            },
+            {
+              "id": "8601",
+              "name": "MOHD YADZIL YAAKUB",
+              "party": "PN",
+              "votes": null
+            },
+            {
+              "id": "8713",
+              "name": "MUHAMMAD SOLEHIN SALEH",
+              "party": "BERSAMA",
+              "votes": null
+            },
+            {
+              "id": "8711",
+              "name": "MUHAMMAD RABAE ABD HAMID",
+              "party": "BERSATU",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:19:36.000000Z"
+        },
+        {
+          "code": "N.25",
+          "name": "Rim",
+          "registered": 17742,
+          "candidates": [
+            {
+              "id": "8605",
+              "name": "KHAIDHIRAH ABU ZAHAR",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "8631",
+              "name": "ESMA EAZREEN HUSIN",
+              "party": "PH",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:19:57.000000Z"
+        },
+        {
+          "code": "N.26",
+          "name": "Serkam",
+          "registered": 21352,
+          "candidates": [
+            {
+              "id": "8665",
+              "name": "MUHAMAD SAFFIE MD YASAN",
+              "party": "BERSAMA",
+              "votes": null
+            },
+            {
+              "id": "8635",
+              "name": "MUHAMMAD FAIQ AZMAN",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "8649",
+              "name": "AZMAN ABDULLAH",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:20:17.000000Z"
+        },
+        {
+          "code": "N.27",
+          "name": "Merlimau",
+          "registered": 19759,
+          "candidates": [
+            {
+              "id": "8611",
+              "name": "MUHAMAD AKMAL SALEH",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "8637",
+              "name": "RAHAYU HAMZAH",
+              "party": "PH",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:20:36.000000Z"
+        },
+        {
+          "code": "N.28",
+          "name": "Sungai Rambai",
+          "registered": 16043,
+          "candidates": [
+            {
+              "id": "8675",
+              "name": "AMINUDDIN ABDUL JALIL",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "8677",
+              "name": "NORRIZAN JANTAN",
+              "party": "BEBAS",
+              "votes": null
+            },
+            {
+              "id": "8673",
+              "name": "JEZLEE PIT",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": false,
+          "sourceUpdatedAt": "2026-10-31T02:20:55.000000Z"
+        }
+      ],
+      "message": "Snapshot validated: 28 DUN / 79 candidates"
+    },
+    "spr": {
+      "url": "https://dashboard.spr.gov.my/",
+      "attemptedAt": "2026-11-14T10:18:51.876859+00:00",
+      "ok": true,
+      "checkedAt": "2026-11-14T10:18:51.876859+00:00",
+      "seats": [
+        {
+          "code": "N.01",
+          "name": "Kuala Linggi",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13401-1",
+              "name": "MUKHLIS MUBIN",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13401-3",
+              "name": "DATUK ROSLI @ TOK LI",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "13401-2",
+              "name": "DR FARHANA HAMZAH",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.02",
+          "name": "Tanjung Bidara",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13402-1",
+              "name": "YUNAZRI MUSTAMIRI",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13402-2",
+              "name": "AB RAUF BIN YUSOH (TOK RAUF)",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.03",
+          "name": "Ayer Limau",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13403-1",
+              "name": "MEJAR (B) HAJI MOHD JAINI",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13403-2",
+              "name": "DATUK HJ HAMEED",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.04",
+          "name": "Lendu",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13404-2",
+              "name": "NAZRI BIN RAMLI",
+              "party": "BERSATU",
+              "votes": null
+            },
+            {
+              "id": "13404-1",
+              "name": "ABDUL HAKIM ABDUL WAHID",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.05",
+          "name": "Taboh Naning",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13405-1",
+              "name": "AJUE SAHAT",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13405-2",
+              "name": "Acik Zul",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.06",
+          "name": "Rembia",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13506-3",
+              "name": "KHUZAIRE KAMAL",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13506-2",
+              "name": "AZRIL AZIZ",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "13506-1",
+              "name": "USTAZ AMAN AKIL",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.07",
+          "name": "Gadek",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13507-1",
+              "name": "JEGAN K",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13507-4",
+              "name": "NADARAJAH SELLAPPA",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "13507-3",
+              "name": "LAILA NORINDA MAON",
+              "party": "PUTRA",
+              "votes": null
+            },
+            {
+              "id": "13507-2",
+              "name": "LAVEEN BALA",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.08",
+          "name": "Machap Jaya",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13508-2",
+              "name": "GINIE LIM",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13508-1",
+              "name": "NGWE HEE SEM ( AH SEM )",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "13508-3",
+              "name": "PRASANTH KUMAR BRAKASAM",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.09",
+          "name": "Durian Tunggal",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13509-2",
+              "name": "ASHRAF MINGHAT",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13509-1",
+              "name": "CIKGU MUSTAFA MUSA",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.10",
+          "name": "Asahan",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13510-2",
+              "name": "DENESH",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13510-1",
+              "name": "FAIRUL NIZAM (ALONG)",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.11",
+          "name": "Sungai Udang",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13611-1",
+              "name": "MEJAR (B) ABDULLAH BIN MAHADI",
+              "party": "BERSATU",
+              "votes": null
+            },
+            {
+              "id": "13611-3",
+              "name": "DATUK RAIS BIN YASIN",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "13611-2",
+              "name": "RIDZUAN RAHMAN",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.12",
+          "name": "Pantai Kundor",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13612-1",
+              "name": "DR. ASMAH SAMAT",
+              "party": "BERSATU",
+              "votes": null
+            },
+            {
+              "id": "13612-2",
+              "name": "TUMINAH KADI",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.13",
+          "name": "Paya Rumput",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13613-1",
+              "name": "HAJI RAFIE AHMAD",
+              "party": "PN",
+              "votes": null
+            },
+            {
+              "id": "13613-3",
+              "name": "DATUK AZMAN ABIDIN",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13613-2",
+              "name": "ABDUL RASHID @ RASHID KARIMI",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.14",
+          "name": "Kelebang",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13614-2",
+              "name": "DATO' SRI MOHAMAD ALI",
+              "party": "BERSATU",
+              "votes": null
+            },
+            {
+              "id": "13614-1",
+              "name": "FARZANA HAYANI / NANA",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13614-4",
+              "name": "DATUK WIRA LIM BAN HONG",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "13614-3",
+              "name": "YOUNG JIE YU",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.15",
+          "name": "Pengkalan Batu",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13715-4",
+              "name": "DATUK NORHIZAM BIN HASSAN BAKTEE",
+              "party": "BERSATU",
+              "votes": null
+            },
+            {
+              "id": "13715-3",
+              "name": "JASON TZE-XI NATHAN",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13715-1",
+              "name": "SITI AISYAH MAHMOOD",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "13715-2",
+              "name": "GOH HAN @ GOH HAN KOON",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.16",
+          "name": "Ayer Keroh",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13716-4",
+              "name": "MOHD HAMNAIM BIN MOHAMAD",
+              "party": "BERSATU",
+              "votes": null
+            },
+            {
+              "id": "13716-3",
+              "name": "MICHAEL GAN",
+              "party": "PN",
+              "votes": null
+            },
+            {
+              "id": "13716-2",
+              "name": "KERK CHEE YEE",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13716-1",
+              "name": "MUHAIMIN LAU / ALAN LAU",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.17",
+          "name": "Bukit Katil",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13717-2",
+              "name": "RIDZUAN SARIF",
+              "party": "PN",
+              "votes": null
+            },
+            {
+              "id": "13717-1",
+              "name": "ADLY ZAHARI",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13717-4",
+              "name": "DR ALIZA BINTI CHE AMRAN",
+              "party": "BERSAMA",
+              "votes": null
+            },
+            {
+              "id": "13717-3",
+              "name": "ABU BAKAR BIN HJ SABUDIN",
+              "party": "BEBAS",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.18",
+          "name": "Ayer Molek",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13718-2",
+              "name": "HAKIMIN MOKHTAR",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13718-1",
+              "name": "MOHD RIDHWAN MOHD ALI",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.19",
+          "name": "Kesidang",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13819-3",
+              "name": "ALBERT KOK",
+              "party": "PN",
+              "votes": null
+            },
+            {
+              "id": "13819-2",
+              "name": "ALLEX SEAH SHOO CHIN",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13819-1",
+              "name": "DR BRYAN KEK",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.20",
+          "name": "Kota Laksamana",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13820-1",
+              "name": "LOW CHEE LEONG",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13820-2",
+              "name": "MELVIN CHUA",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "13820-3",
+              "name": "ETHAN LIM ZHI HAO",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.21",
+          "name": "Duyong",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13821-1",
+              "name": "POO LONG SUAN",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13821-2",
+              "name": "MOHD NOOR HELMY",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.22",
+          "name": "Bandar Hilir",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13822-2",
+              "name": "LENG CHAU YEN",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13822-1",
+              "name": "JASMINE LOK",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "13822-3",
+              "name": "Ir. Dr. Rashidi Jalil",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.23",
+          "name": "Telok Mas",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13823-1",
+              "name": "KAPTEN (B) MOHAMAD BIN JAAFAR",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13823-2",
+              "name": "ABDUL RAZAK ABDUL RAHMAN ( TOK AJAK )",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "13823-3",
+              "name": "HAZWAN MUSTAFA",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.24",
+          "name": "Bemban",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13924-1",
+              "name": "MUHAMMAD RABAIE",
+              "party": "BERSATU",
+              "votes": null
+            },
+            {
+              "id": "13924-3",
+              "name": "DR YADZIL",
+              "party": "PN",
+              "votes": null
+            },
+            {
+              "id": "13924-2",
+              "name": "DR.SOLEHIN SALEH",
+              "party": "BERSAMA",
+              "votes": null
+            },
+            {
+              "id": "13924-4",
+              "name": "ABD HALIM SAID",
+              "party": "BEBAS",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.25",
+          "name": "Rim",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13925-1",
+              "name": "ESMA EAZREEN",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13925-2",
+              "name": "DIRA ABU ZAHAR",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.26",
+          "name": "Serkam",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13926-2",
+              "name": "ALONG FAIQ",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13926-1",
+              "name": "DATUK AZMAN ABDULLAH",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "13926-3",
+              "name": "MUHAMAD SAFFIE",
+              "party": "BERSAMA",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.27",
+          "name": "Merlimau",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13927-2",
+              "name": "AYU HAMZAH",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13927-1",
+              "name": "DR AKMAL SALEH",
+              "party": "BN",
+              "votes": null
+            }
+          ],
+          "official": true
+        },
+        {
+          "code": "N.28",
+          "name": "Sungai Rambai",
+          "registered": null,
+          "candidates": [
+            {
+              "id": "13928-2",
+              "name": "AMINUDDIN",
+              "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "13928-1",
+              "name": "JEZLEE PIT",
+              "party": "BN",
+              "votes": null
+            },
+            {
+              "id": "13928-3",
+              "name": "NORRIZAN BIN JANTAN",
+              "party": "BEBAS",
+              "votes": null
+            }
+          ],
+          "official": true
+        }
+      ],
+      "message": "Snapshot validated: 28 DUN / 79 candidates"
+    },
+    "malaysiakini": {
+      "url": "https://www.malaysiakini.com/news/889120-live-d-day-for-malacca",
+      "ok": false,
+      "message": "Live coverage link only. Automated widget retrieval returned HTTP 403; no vote feed connected."
+    }
+  }
+}

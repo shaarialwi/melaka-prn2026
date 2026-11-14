@@ -59,3 +59,14 @@ The site uses local SVG/GeoJSON, vanilla JavaScript and CSS. No map API key, cha
 - `data/candidates.csv` contains the requested candidate list, DUN, party/coalition, and separate official/unofficial vote columns. Empty values mean unreported.
 
 Independent project. Not affiliated with SPR, BERNAMA, or any political party. US election-night visual conventions are adapted to Melaka's multiparty, 28-seat assembly; no US electoral-college rules are used.
+
+
+## Additional publishers
+
+The publisher selector keeps BERNAMA, Astro AWANI and SPR snapshots separate; it never sums or silently substitutes their counts. `scripts/update_sources.py` polls AWANI season 21 (`prn-melaka-2026`) and SPR election `2026-03`, validating the election, 28 DUN, 79 candidates, party names, integer votes and stable source IDs. SPR uses one snapshot from its public `calondun` SSE endpoint. AWANI nomination placeholders (zero with null candidate status) remain unreported; `official_result` controls the seat-level official label. A publisher's win/lose marker is never treated as a declared winner in the dashboard.
+
+Each publisher has its own checked time and failure status. Failed requests retain that publisher's last valid snapshot; no other publisher's votes fill its gaps. The workflow runs approximately every five minutes; GitHub can delay schedules. The browser reloads snapshots every minute. `data/source-candidates.csv` includes source URLs and per-seat official status. SPR registered-elector counts are not inferred from another publisher.
+
+Malaysiakini's public live article links to `https://embed.mkini.workers.dev/2026-mlk-v3/en`, but automated requests returned HTTP 403 during integration. It is explicitly a live-coverage link only, not an automatic vote feed. No paywall or access restriction is bypassed. No Facebook feed is connected.
+
+Run adapter tests with `python scripts/test_sources.py`. Refresh with `python scripts/update_sources.py`.
