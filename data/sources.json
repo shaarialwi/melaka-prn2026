@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-11-14T15:11:38.574254+00:00",
+  "checkedAt": "2026-11-14T19:57:07.709341+00:00",
   "sources": {
     "awani": {
       "url": "https://pru.astroawani.com/prn-melaka-2026/kawasan",
-      "attemptedAt": "2026-11-14T15:11:38.574254+00:00",
+      "attemptedAt": "2026-11-14T19:57:07.709341+00:00",
       "ok": true,
-      "checkedAt": "2026-11-14T15:11:38.574254+00:00",
+      "checkedAt": "2026-11-14T19:57:07.709341+00:00",
       "seats": [
         {
           "code": "N.01",
@@ -304,23 +304,23 @@
               "id": "1679",
               "name": "RAFIE AHMAD",
               "party": "PN",
-              "votes": 17194
+              "votes": 19723
             },
             {
               "id": "8721",
               "name": "AZMAN ABIDIN",
               "party": "PH",
-              "votes": 10641
+              "votes": 12538
             },
             {
               "id": "8717",
               "name": "ABDUL RASHID ABU BAKAR",
               "party": "BERSAMA",
-              "votes": 1128
+              "votes": 1288
             }
           ],
-          "official": false,
-          "sourceUpdatedAt": "2026-11-14T12:37:26.000000Z"
+          "official": true,
+          "sourceUpdatedAt": "2026-11-14T15:19:47.000000Z"
         },
         {
           "code": "N.14",
@@ -738,9 +738,9 @@
     },
     "spr": {
       "url": "https://dashboard.spr.gov.my/",
-      "attemptedAt": "2026-11-14T15:11:38.574254+00:00",
+      "attemptedAt": "2026-11-14T19:57:07.709341+00:00",
       "ok": true,
-      "checkedAt": "2026-11-14T15:11:38.574254+00:00",
+      "checkedAt": "2026-11-14T19:57:07.709341+00:00",
       "seats": [
         {
           "code": "N.01",
@@ -1027,19 +1027,19 @@
               "id": "13613-1",
               "name": "HAJI RAFIE AHMAD",
               "party": "PN",
-              "votes": null
+              "votes": 19723
             },
             {
               "id": "13613-3",
               "name": "DATUK AZMAN ABIDIN",
               "party": "PH",
-              "votes": null
+              "votes": 12538
             },
             {
               "id": "13613-2",
               "name": "ABDUL RASHID @ RASHID KARIMI",
               "party": "BERSAMA",
-              "votes": null
+              "votes": 1288
             }
           ],
           "official": true

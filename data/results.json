@@ -1,8 +1,8 @@
 {
   "election": "PRN Melaka 2026",
   "pollingDate": "2026-11-14",
-  "checkedAt": "2026-11-14T15:11:32.073236+00:00",
-  "changedAt": "2026-11-14T15:11:32.073236+00:00",
+  "checkedAt": "2026-11-14T19:57:00.711923+00:00",
+  "changedAt": "2026-11-14T19:57:00.711923+00:00",
   "source": "https://election.bernama.com/prn/melaka/2026/keputusan/",
   "modes": {
     "unofficial": [
@@ -951,19 +951,19 @@
             "id": "4630E299-1A95-4327-980D-EF084986DC73",
             "name": "RAFIE BIN AHMAD",
             "party": "PN",
-            "votes": null
+            "votes": 19723
           },
           {
             "id": "417FCEAE-A82D-4ABE-96B2-696A26456193",
             "name": "ABDUL RASHID BIN ABU BAKAR",
             "party": "BERSAMA",
-            "votes": null
+            "votes": 1288
           },
           {
             "id": "B5CAA28D-E516-4B0A-94B7-67D5933B9460",
             "name": "AZMAN BIN ABIDIN",
             "party": "PH",
-            "votes": null
+            "votes": 12538
           }
         ]
       },
