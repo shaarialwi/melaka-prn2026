@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-11-14T10:54:32.893622+00:00",
+  "checkedAt": "2026-11-14T10:55:47.385310+00:00",
   "sources": {
     "awani": {
       "url": "https://pru.astroawani.com/prn-melaka-2026/kawasan",
-      "attemptedAt": "2026-11-14T10:54:32.893622+00:00",
+      "attemptedAt": "2026-11-14T10:55:47.385310+00:00",
       "ok": true,
-      "checkedAt": "2026-11-14T10:54:32.893622+00:00",
+      "checkedAt": "2026-11-14T10:55:47.385310+00:00",
       "seats": [
         {
           "code": "N.01",
@@ -460,15 +460,15 @@
           "registered": 24614,
           "candidates": [
             {
-              "id": "3835",
-              "name": "MOHD RIDHWAN MOHD ALI",
-              "party": "BN",
-              "votes": null
-            },
-            {
               "id": "8641",
               "name": "MUHAMMAD HAKIMIN MOKHTAR",
               "party": "PH",
+              "votes": null
+            },
+            {
+              "id": "3835",
+              "name": "MOHD RIDHWAN MOHD ALI",
+              "party": "BN",
               "votes": null
             }
           ],
@@ -691,26 +691,32 @@
           "registered": 19759,
           "candidates": [
             {
-              "id": "8637",
-              "name": "RAHAYU HAMZAH",
-              "party": "PH",
-              "votes": null
-            },
-            {
               "id": "8611",
               "name": "MUHAMAD AKMAL SALEH",
               "party": "BN",
-              "votes": null
+              "votes": 136
+            },
+            {
+              "id": "8637",
+              "name": "RAHAYU HAMZAH",
+              "party": "PH",
+              "votes": 120
             }
           ],
           "official": false,
-          "sourceUpdatedAt": "2026-10-31T02:20:36.000000Z"
+          "sourceUpdatedAt": "2026-11-14T10:55:11.000000Z"
         },
         {
           "code": "N.28",
           "name": "Sungai Rambai",
           "registered": 16043,
           "candidates": [
+            {
+              "id": "8675",
+              "name": "AMINUDDIN ABDUL JALIL",
+              "party": "PH",
+              "votes": null
+            },
             {
               "id": "8673",
               "name": "JEZLEE PIT",
@@ -722,12 +728,6 @@
               "name": "NORRIZAN JANTAN",
               "party": "BEBAS",
               "votes": null
-            },
-            {
-              "id": "8675",
-              "name": "AMINUDDIN ABDUL JALIL",
-              "party": "PH",
-              "votes": null
             }
           ],
           "official": false,
@@ -738,9 +738,9 @@
     },
     "spr": {
       "url": "https://dashboard.spr.gov.my/",
-      "attemptedAt": "2026-11-14T10:54:32.893622+00:00",
+      "attemptedAt": "2026-11-14T10:55:47.385310+00:00",
       "ok": true,
-      "checkedAt": "2026-11-14T10:54:32.893622+00:00",
+      "checkedAt": "2026-11-14T10:55:47.385310+00:00",
       "seats": [
         {
           "code": "N.01",
