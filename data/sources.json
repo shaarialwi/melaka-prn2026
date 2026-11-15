@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-11-15T10:49:56.883846+00:00",
+  "checkedAt": "2026-11-15T17:27:57.018844+00:00",
   "sources": {
     "awani": {
       "url": "https://pru.astroawani.com/prn-melaka-2026/kawasan",
-      "attemptedAt": "2026-11-15T10:49:56.883846+00:00",
+      "attemptedAt": "2026-11-15T17:27:57.018844+00:00",
       "ok": true,
-      "checkedAt": "2026-11-15T10:49:56.883846+00:00",
+      "checkedAt": "2026-11-15T17:27:57.018844+00:00",
       "seats": [
         {
           "code": "N.01",
@@ -738,9 +738,9 @@
     },
     "spr": {
       "url": "https://dashboard.spr.gov.my/",
-      "attemptedAt": "2026-11-15T10:49:56.883846+00:00",
+      "attemptedAt": "2026-11-15T17:27:57.018844+00:00",
       "ok": true,
-      "checkedAt": "2026-11-15T10:49:56.883846+00:00",
+      "checkedAt": "2026-11-15T17:27:57.018844+00:00",
       "seats": [
         {
           "code": "N.01",
@@ -777,13 +777,13 @@
               "id": "13402-1",
               "name": "YUNAZRI MUSTAMIRI",
               "party": "PH",
-              "votes": 1464
+              "votes": 1100
             },
             {
               "id": "13402-2",
               "name": "AB RAUF BIN YUSOH (TOK RAUF)",
               "party": "BN",
-              "votes": 10079
+              "votes": 10443
             }
           ],
           "official": true

@@ -1,8 +1,8 @@
 {
   "election": "PRN Melaka 2026",
   "pollingDate": "2026-11-14",
-  "checkedAt": "2026-11-15T10:49:47.554189+00:00",
-  "changedAt": "2026-11-14T19:57:00.711923+00:00",
+  "checkedAt": "2026-11-15T17:27:48.457087+00:00",
+  "changedAt": "2026-11-15T17:27:48.457087+00:00",
   "source": "https://election.bernama.com/prn/melaka/2026/keputusan/",
   "modes": {
     "unofficial": [
@@ -712,13 +712,13 @@
             "id": "E184DCF7-B746-47B3-BA2B-B3671BD2F704",
             "name": "MOHD YUNAZRI BIN MUSTAMIRI",
             "party": "PH",
-            "votes": 1464
+            "votes": 1100
           },
           {
             "id": "0E854B1C-639C-467F-ACA5-F73C81543F51",
             "name": "AB RAUF BIN YUSOH",
             "party": "BN",
-            "votes": 10079
+            "votes": 10443
           }
         ]
       },
