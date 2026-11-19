@@ -1,1 +1,1 @@
-{"ok": true, "attemptAt": "2026-11-19T16:50:10.996017+00:00", "message": "Source fetched and validated"}
+{"ok": false, "attemptAt": "2026-11-19T23:20:13.338638+00:00", "message": "Source unavailable or validation failed; last good snapshot retained"}
