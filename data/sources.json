@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-11-25T11:40:12.827342+00:00",
+  "checkedAt": "2026-11-25T20:40:07.284964+00:00",
   "sources": {
     "awani": {
       "url": "https://pru.astroawani.com/prn-melaka-2026/kawasan",
-      "attemptedAt": "2026-11-25T11:40:12.827342+00:00",
+      "attemptedAt": "2026-11-25T20:40:07.284964+00:00",
       "ok": true,
-      "checkedAt": "2026-11-25T11:40:12.827342+00:00",
+      "checkedAt": "2026-11-25T20:40:07.284964+00:00",
       "seats": [
         {
           "code": "N.01",
@@ -738,9 +738,9 @@
     },
     "spr": {
       "url": "https://dashboard.spr.gov.my/",
-      "attemptedAt": "2026-11-25T11:40:12.827342+00:00",
+      "attemptedAt": "2026-11-25T20:40:07.284964+00:00",
       "ok": true,
-      "checkedAt": "2026-11-25T11:40:12.827342+00:00",
+      "checkedAt": "2026-11-25T20:40:07.284964+00:00",
       "seats": [
         {
           "code": "N.01",
